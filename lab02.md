@@ -1,6 +1,6 @@
-# ***如何制作平台游戏***
+# ***如何制作HTML5游戏***
 
-<font size="4">
+
 
 * 准备工作：安装construct2(https://www.scirra.com/tutorials/top)
 
