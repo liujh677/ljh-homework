@@ -1,10 +1,12 @@
 # ***如何制作平台游戏***
 
-* 准备工作：安装construct2(https://www.scirra.com/tutorials/top)
-* 游戏说明：通过射击怪物获取分数的游戏
-
-
 <font size="4">
+
+* 准备工作：安装construct2(https://www.scirra.com/tutorials/top)
+* 游戏说明：通过射击怪物获取快感的游戏
+
+
+
 
  
 * &nbsp; 启动construct2，单击 File 按钮，然后选择 New  
