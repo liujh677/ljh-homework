@@ -3,6 +3,8 @@
 <font size="4">
 
 * 准备工作：安装construct2(https://www.scirra.com/tutorials/top)
+
+
 * 游戏说明：通过射击怪物获取快感的游戏
 
 
